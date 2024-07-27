@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Parijat Barua
+### Hi there 👋, I'm Parijat Barua💚🌒🌘☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ---
 
