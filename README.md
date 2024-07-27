@@ -5,7 +5,7 @@
 - 👀 I’m interested in exploring new technologies, software dev, and open-source projects.
 - 🌱 I’m currently learning data structures & algorithms, full stack software development , and cloud computing(AWS).
 - 💞️ I’m looking to collaborate on exciting open-source projects, research in AI, and innovative tech solutions.
-- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/parijat-barua-770128258/) or email me at [fscparijat@gmail.com].
+- 📫 How to reach me: You can connect with me via [LinkedIn](https://www.linkedin.com/parijat-barua-770128258) or email me at [fscparijat@gmail.com].
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and participating in group projects and logic thinking!
 
